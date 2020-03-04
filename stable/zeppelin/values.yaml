@@ -1,5 +1,5 @@
 zeppelin:
-  image: dylanmei/zeppelin:0.7.2
+  image: apache/zeppelin:0.8.2
   resources:
     limits:
       memory: "4096Mi"
